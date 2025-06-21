@@ -1,4 +1,5 @@
-button{
+.first,
+.second{
     font-family: Helvetica, "time new roman", sans-serif;
     font-size: 28px;
 }
@@ -7,6 +8,6 @@ button{
     background-color: #000000; /* black */
 }
 .second{
-    color: black;
-    background-color: yellow ;/* white */
+    
+    background-color: yellow ;/* yellow */
 }
